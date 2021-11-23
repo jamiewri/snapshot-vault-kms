@@ -19,7 +19,7 @@ Generate a demo key
 - Inspect the demo key.
 - Use the demo key from HashiCorp Vault to encrypt a value.
 
-Example workflow using both HashiCorp Vault and GCP Kingring
+Example workflow using both HashiCorp Vault and GCP Keyring
 - Distribute the demo key to the GCP KMS Keyring.
 - Use the `gcloud` cli to decrypt a value.
 
