@@ -33,3 +33,4 @@ public_key.pem
 *.swp
 *.SWP
 message.txt
+cipher.txt.enc
