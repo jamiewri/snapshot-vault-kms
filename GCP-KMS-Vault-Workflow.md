@@ -1,4 +1,4 @@
-# HashiCorp Vault with Azure Key Vault Demo
+# HashiCorp Vault with Google Cloud KMS Demo
 
 ## Prerequisites
 - HashiCorp Vault >= 1.9
